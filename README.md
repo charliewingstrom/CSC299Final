@@ -1,0 +1,4 @@
+# CSC299Final
+The final project for my Lab in Applied Computing class. This was a group effort between myself and 3 others. We took information from the music service aggregator last.fm. On last.fm, there is a 60's tag and a 70's tag. We started with the most popular artists connected to each of those tags and used our crawler to search through the network from there.  
+
+This project was done as a group and in stages over the 10 week course. The goal was to learn how to gather data from a website using an API to create a crawler, and then how to take that data, analyze it and turn it into something useful. In the beginning we had predicted that the 60's tag would be more highly connected than the 70's because we thought the 70's had more subgenres. In the end we found that was not the case and more often the opposite was true. Another thing we learned was how to use was Gephi to create visuals that could be understood by a non-technical person. 
